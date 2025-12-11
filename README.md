@@ -1,6 +1,6 @@
 # iExplorer - iOS Device Manager
 
-<img src="https://static.macupdate.com/products/31722/m/iexplorer-logo.png?v=1666016329" width="200" alt="App icon" align="left"/>
+<img src="https://www.fonedog.de/images/others/iexplorer-logo.png" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>iExplorer for macOS</h3>
